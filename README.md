@@ -21,5 +21,12 @@ Download project folder and use android studio or other softwares to run on a an
   * A player can login and continue previous session of game.
   * After login, the user can choose which game to play.
 
+## What I learned from doing this project:
+ * What it feels like to work with a group of people.
+ * Working as a group to complete a large project.
+ * How to use **git** in a group
+ * How to use **android studio**
+ * **Java** and **OO Programming**
+
 ## What Me and my partner developed and responsible for:
   * 2D side-scrolling game
